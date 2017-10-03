@@ -1,0 +1,3 @@
+[submodule "sharedCore"]
+	path = sharedCore
+	url = https://github.com/luispalacios270/sharedCore.git
